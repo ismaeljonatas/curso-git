@@ -1,5 +1,5 @@
 # Drescrição
-minicurso de git github
+Minicurso de git github
 # Alunos 
 Jô fernandes
 # instrutor
