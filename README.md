@@ -1,3 +1,6 @@
+# Drescrição
+minicurso de git github
 # Alunos 
+Jô fernandes
 # instrutor
-Jõ Fernandes
+Kamila
